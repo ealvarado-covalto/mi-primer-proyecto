@@ -1,6 +1,7 @@
 Texto original de MASTER
 
 Probando ramas con VS Code
+Texto editado en Main para forzar conflicto
 
 Git es super complejo
 Git es asombroso.
