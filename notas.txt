@@ -1,4 +1,6 @@
-Aprendiendo Git con VS Code
+Texto original de MASTER
 
-Git es muy fácil.
+Probando ramas con VS Code
+
+Git es super complejo
 Git es asombroso.
