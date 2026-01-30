@@ -1,2 +1,4 @@
-Hola, este es mi primer archivo
+Estoy en MASTER
+
+Git es super complejo
 Git es asombroso.
