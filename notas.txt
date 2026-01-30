@@ -1,4 +1,4 @@
-Ahora estoy en MASTER
+Aprendiendo Git con VS Code
 
 Git es muy fácil.
 Git es asombroso.
