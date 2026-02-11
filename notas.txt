@@ -6,4 +6,4 @@ Texto editado en Main para forzar conflicto
 Git es super complejo
 Git es asombroso.
 
-Este es un cambio del otro colega
+Este es un cambio del otro colega.
